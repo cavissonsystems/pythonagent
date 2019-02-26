@@ -1,0 +1,19 @@
+{
+  "name": "pythonagent",
+  "version": "1.0.0",
+  "description": "Application Performance Monitoring Tool",
+  "main": "__init__.py",
+  "scripts": {
+    "test": "python agent.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavissonsystems/pythonagent.git"
+  },
+  "author": "Alok Shrivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavissonsystems/pythonagent/issues"
+  },
+  "homepage": "https://github.com/cavissonsystems/pythonagent#readme"
+}
